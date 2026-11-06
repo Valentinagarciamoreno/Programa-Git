@@ -1,1 +1,1 @@
-Programa de ejemplo para practicar Git. 
+Programa de ejemplo para practicar Git. 
